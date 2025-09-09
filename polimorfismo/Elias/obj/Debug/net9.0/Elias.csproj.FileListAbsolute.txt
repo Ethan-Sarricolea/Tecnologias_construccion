@@ -1,0 +1,15 @@
+C:\Users\esarr\OneDrive\Desktop\apuntes\Tecnologias_construccion\polimorfismo\Elias\bin\Debug\net9.0\Elias.exe
+C:\Users\esarr\OneDrive\Desktop\apuntes\Tecnologias_construccion\polimorfismo\Elias\bin\Debug\net9.0\Elias.deps.json
+C:\Users\esarr\OneDrive\Desktop\apuntes\Tecnologias_construccion\polimorfismo\Elias\bin\Debug\net9.0\Elias.runtimeconfig.json
+C:\Users\esarr\OneDrive\Desktop\apuntes\Tecnologias_construccion\polimorfismo\Elias\bin\Debug\net9.0\Elias.dll
+C:\Users\esarr\OneDrive\Desktop\apuntes\Tecnologias_construccion\polimorfismo\Elias\bin\Debug\net9.0\Elias.pdb
+C:\Users\esarr\OneDrive\Desktop\apuntes\Tecnologias_construccion\polimorfismo\Elias\obj\Debug\net9.0\Elias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esarr\OneDrive\Desktop\apuntes\Tecnologias_construccion\polimorfismo\Elias\obj\Debug\net9.0\Elias.AssemblyInfoInputs.cache
+C:\Users\esarr\OneDrive\Desktop\apuntes\Tecnologias_construccion\polimorfismo\Elias\obj\Debug\net9.0\Elias.AssemblyInfo.cs
+C:\Users\esarr\OneDrive\Desktop\apuntes\Tecnologias_construccion\polimorfismo\Elias\obj\Debug\net9.0\Elias.csproj.CoreCompileInputs.cache
+C:\Users\esarr\OneDrive\Desktop\apuntes\Tecnologias_construccion\polimorfismo\Elias\obj\Debug\net9.0\Elias.sourcelink.json
+C:\Users\esarr\OneDrive\Desktop\apuntes\Tecnologias_construccion\polimorfismo\Elias\obj\Debug\net9.0\Elias.dll
+C:\Users\esarr\OneDrive\Desktop\apuntes\Tecnologias_construccion\polimorfismo\Elias\obj\Debug\net9.0\refint\Elias.dll
+C:\Users\esarr\OneDrive\Desktop\apuntes\Tecnologias_construccion\polimorfismo\Elias\obj\Debug\net9.0\Elias.pdb
+C:\Users\esarr\OneDrive\Desktop\apuntes\Tecnologias_construccion\polimorfismo\Elias\obj\Debug\net9.0\Elias.genruntimeconfig.cache
+C:\Users\esarr\OneDrive\Desktop\apuntes\Tecnologias_construccion\polimorfismo\Elias\obj\Debug\net9.0\ref\Elias.dll
