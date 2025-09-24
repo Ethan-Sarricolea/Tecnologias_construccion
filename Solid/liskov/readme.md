@@ -45,3 +45,14 @@ Sabemos que violamos el principio si una subclase redefine el metodo de forma qu
 
 ### Como se soluciona la violación
 
+#### Por montse
+
+ventajas:
+- reutilizacion de codigo
+- Flexibilidad y extensibilidad
+- Facilita la colaboración
+
+Como cumplirlo
+- No debilitar las funcionalidades
+- No lanzar excepciones inesperadas
+- Cumplir las precondiciones y postcondiciones

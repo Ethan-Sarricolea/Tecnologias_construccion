@@ -1,3 +1,19 @@
 *.class
 *.exe
 .vscode
+# Ignorar node_modules (si están en la raíz)
+node_modules/
+
+# Ignorar carpeta dist si compilas TypeScript
+dist/
+
+# Archivos de entorno
+.env
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
