@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>        <!-- o Library, según el tipo de proyecto -->
+    <TargetFramework>net8.0</TargetFramework>  <!-- versión del .NET a usar -->
+    <Nullable>enable</Nullable>          <!-- habilita anotaciones de nulabilidad -->
+    <ImplicitUsings>enable</ImplicitUsings>  <!-- importa espacios de nombres comunes automáticamente -->
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- Dependencias NuGet -->
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="Serilog" Version="3.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <!-- Archivos adicionales, si se requiere -->
+    <None Include="appsettings.json" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+
+</Project>

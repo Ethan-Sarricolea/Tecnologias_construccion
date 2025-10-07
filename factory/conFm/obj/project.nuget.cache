@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "86jW2D9JvqI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\esarr\\OneDrive\\Desktop\\apuntes\\Tecnologias_construccion\\factory\\conFm\\ConFm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\esarr\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\esarr\\.nuget\\packages\\serilog\\3.1.1\\serilog.3.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

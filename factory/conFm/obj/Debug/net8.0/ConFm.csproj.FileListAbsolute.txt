@@ -1,0 +1,6 @@
+C:\Users\esarr\OneDrive\Desktop\apuntes\Tecnologias_construccion\factory\conFm\obj\Debug\net8.0\ConFm.csproj.AssemblyReference.cache
+C:\Users\esarr\OneDrive\Desktop\apuntes\Tecnologias_construccion\factory\conFm\obj\Debug\net8.0\ConFm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esarr\OneDrive\Desktop\apuntes\Tecnologias_construccion\factory\conFm\obj\Debug\net8.0\ConFm.AssemblyInfoInputs.cache
+C:\Users\esarr\OneDrive\Desktop\apuntes\Tecnologias_construccion\factory\conFm\obj\Debug\net8.0\ConFm.AssemblyInfo.cs
+C:\Users\esarr\OneDrive\Desktop\apuntes\Tecnologias_construccion\factory\conFm\obj\Debug\net8.0\ConFm.csproj.CoreCompileInputs.cache
+C:\Users\esarr\OneDrive\Desktop\apuntes\Tecnologias_construccion\factory\conFm\obj\Debug\net8.0\ConFm.sourcelink.json
